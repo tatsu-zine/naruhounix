@@ -5,7 +5,7 @@ Here's support page for "Working With Unix Processes" Japanese Translation Editi
 ### 書誌情報
 
 * http://tatsu-zine.com/books/naruhounix をご覧ください
-* ハッシュタグ: #naruhounix
+* ハッシュタグ: [#naruhounix](http://twitter.com/#!/search/%23naruhounix)
 
 ### サポート情報
 
