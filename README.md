@@ -9,7 +9,7 @@ Here's support page for "Working With Unix Processes" Japanese Translation Editi
 
 ### ソースコード
 
-本書の使用しているソースコードは https://pragprog.com/titles/jsunix/source_code よりダウンロードできます。
+本書の使用しているソースコードは https://workingwithruby.com/downloads よりダウンロードできます。
 
 ### サポート情報
 
